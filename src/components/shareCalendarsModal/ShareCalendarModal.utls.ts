@@ -10,7 +10,7 @@ export default {
     settings: {
       timeFormat: 24,
       startOfWeek: 'Monday',
-      defaultView: CALENDAR_VIEW.WEEK,
+      defaultView: CALENDAR_VIEW.AGENDA,
       hourHeight: 40,
       showWeekNumbers: false,
     },

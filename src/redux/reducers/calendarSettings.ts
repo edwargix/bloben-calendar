@@ -8,7 +8,7 @@ export const defaultCalendarSettings = {
   startOfWeek: 'Monday',
   defaultCalendarID: '',
   timezone: getLocalTimezone(),
-  defaultView: CALENDAR_VIEW.WEEK,
+  defaultView: CALENDAR_VIEW.AGENDA,
   showWeekNumbers: false,
   defaultAddressBookID: '',
   saveContactsAuto: true,

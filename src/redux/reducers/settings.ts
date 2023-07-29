@@ -7,7 +7,7 @@ export const initSettings = (): AppSettings => {
     logging: false,
     timeFormat: '24',
     startOfWeek: 'Monday',
-    defaultView: CalendarView.WEEK,
+    defaultView: CalendarView.AGENDA,
     hourHeight: 40,
     disabledViews: [],
     timezone: getLocalTimezone(),
